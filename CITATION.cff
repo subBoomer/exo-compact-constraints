@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Exotic Compact Object Constraints"
+message: "If you use this software in your research, please cite it as below."
+type: software
+authors:
+  - family-names: Kiselchuk
+    given-names: Timur
+    affiliation: "Independent Researcher"
+    orcid: ""
+version: "0.1.0"
+date-released: 2026-06-09
+repository-code: "https://github.com/timurkiselchuk/exo-compact-constraints"
+license: "MIT"
+keywords:
+  - general relativity
+  - black holes
+  - wormholes
+  - exotic compact objects
+  - gravitational waves
+  - EHT
+  - ray tracing

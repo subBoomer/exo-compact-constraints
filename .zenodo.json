@@ -1,0 +1,29 @@
+{
+    "title": "Exotic Compact Object Constraints",
+    "description": "Simulation-driven research framework comparing black holes, wormholes, and exotic compact objects through gravitational lensing, shadow imaging, gravitational waves, and orbital dynamics. Features Hamiltonian ray tracing, real EHT/LIGO/pulsar constraint data, and 11 publication-ready figures.",
+    "creators": [
+        {
+            "name": "Kiselchuk, Timur",
+            "affiliation": "Independent Researcher"
+        }
+    ],
+    "keywords": [
+        "general relativity",
+        "black holes",
+        "wormholes",
+        "exotic compact objects",
+        "gravitational waves",
+        "EHT",
+        "event horizon telescope",
+        "LIGO",
+        "ray tracing",
+        "gravitational lensing",
+        "quasinormal modes"
+    ],
+    "license": "MIT",
+    "upload_type": "software",
+    "access_right": "open",
+    "communities": [
+        {"identifier": "gravitational-physics"}
+    ]
+}
