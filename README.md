@@ -1,7 +1,6 @@
 # Exotic Compact Object Constraints
 
-<!-- TODO: Replace with Zenodo DOI after archiving -->
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) -->
+[![DOI](https://zenodo.org/badge/1263367970.svg)](https://doi.org/10.5281/zenodo.20617351)
 
 **Simulation-driven framework for distinguishing black holes from wormholes and exotic compact objects using gravitational lensing, shadow imaging, gravitational waves, and orbital dynamics.**
 
@@ -161,7 +160,7 @@ If you use this framework in your research, please cite:
 
 ```
 Kiselchuk, T. (2026). Exotic Compact Object Constraints (v0.1.0).
-Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+Zenodo. https://doi.org/10.5281/zenodo.20617351
 ```
 
 ## License
